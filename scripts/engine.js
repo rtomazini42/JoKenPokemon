@@ -60,7 +60,7 @@ const cardData =[
     },
     {
         id: 4,
-        name: "Enkas",
+        name: "Ekans",
         type: "Scissors",
         img: pathImages + "enkas.png",
         WinOf: "Paper",
@@ -68,7 +68,7 @@ const cardData =[
     },
     {
         id: 5,
-        name: "Evee",
+        name: "Eevee",
         type: "Rock",
         img: pathImages + "evee.png",
         WinOf: "Scissors",
